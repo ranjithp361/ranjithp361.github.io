@@ -1,4 +1,2 @@
-#Text
+### Coming soon...Site under construction
 
-* test first repository
-* test second repository
